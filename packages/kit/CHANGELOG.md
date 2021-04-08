@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.72
+
+### Patch Changes
+
+- bb2d97d: Fix argument type for RequestHandler
+
 ## 1.0.0-next.71
 
 ### Patch Changes
